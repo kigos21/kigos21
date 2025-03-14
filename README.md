@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate IT student and aspiring full-stack developer, currently honing my skills at the University of Santo Tomas. I love tech, as much as I love **hiking** and **exploring nature** ❤️!
+I'm a passionate IT student and aspiring full-stack developer, currently honing my skills at the University of Santo Tomas. I love tech, as much as I love **hiking** ❤️!
 
 ### 🛠️ Skills
 
